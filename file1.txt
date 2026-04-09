@@ -1,1 +1,7 @@
 hello
+
+git add file1.txt
+git commit -m "added file1"
+git log
+git log --oneline
+git status
