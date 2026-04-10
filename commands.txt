@@ -9,3 +9,7 @@ git branch -m main
 git remote add origin https://github.com/sivakrishnaguttula39/git-.git
 git push -u origin main
 git add .
+git branch b1
+git branch
+git switch main
+git merge b1
